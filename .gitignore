@@ -143,6 +143,8 @@ venv.bak/
 .dmypy.json
 dmypy.json
 
+server_up.sh
+
 # Pyre type checker
 .pyre/
 
